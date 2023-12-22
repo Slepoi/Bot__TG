@@ -218,3 +218,4 @@ def func(message):
         elif message.text == "Калькулятор":
           handle_text(message)
 bot.polling(none_stop=True)
+
